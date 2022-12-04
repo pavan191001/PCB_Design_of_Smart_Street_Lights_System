@@ -1,5 +1,5 @@
 # Electronics Packaging 
-To build a pcb which performs motion sensor based light system.
+To build a PCB that performs motion sensor-based light system using Autocad Eagle
 
 Group Members: 
 
